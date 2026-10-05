@@ -1,0 +1,1 @@
+A one-month programme for college students from any subject. Each week moves you up one level: first you understand AI, then you use it well, then you build your own AI tools, and finally you design AI systems that many people can trust. Every idea is explained through 20 situations from student life.
